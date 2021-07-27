@@ -1,4 +1,4 @@
-﻿namespace AltisTests.TrainingPerformanceStats
+﻿namespace AltisTests.TrainingPerformanceStats.Data
 {
     public class ActivityStats
     {

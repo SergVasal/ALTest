@@ -1,10 +1,10 @@
-﻿namespace AltisTests.TrainingPerformanceStats
+﻿namespace AltisTests.TrainingPerformanceStats.Data
 {
-    public class ExerciseInfo
+    public class ActivityInfo
     {
         public int CaloriesPerWorkUnit { get; }
 
-        public ExerciseInfo(int caloriesPerWorkUnit)
+        public ActivityInfo(int caloriesPerWorkUnit)
         {
             CaloriesPerWorkUnit = caloriesPerWorkUnit;
         }
